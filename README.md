@@ -1,7 +1,5 @@
 ### Hi there, I'm Yago 👋
 
-![banner](https://github.com/yagopajarino/yagopajarino/blob/main/banner2.png)
-
 ![image](https://user-images.githubusercontent.com/50267208/151165072-e1fa686e-06cd-473f-b964-d5e7756cbbaa.png)
 
 
