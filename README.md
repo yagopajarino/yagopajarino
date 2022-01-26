@@ -1,5 +1,7 @@
 ### Hi there, I'm Yago 👋
 
+WebDev based in Buenos Aires 🇦🇷
+
 ![image](https://user-images.githubusercontent.com/50267208/151165072-e1fa686e-06cd-473f-b964-d5e7756cbbaa.png)
 
 
