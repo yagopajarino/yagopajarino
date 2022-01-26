@@ -2,7 +2,7 @@
 
 WebDev based in Buenos Aires 🇦🇷
 
-<a><img src="./banner.png" alt="more at yagopajarino.com.ar"></img></a>
+<a href="https://yagopajarino.com.ar"><img src="./banner.png" alt="more at yagopajarino.com.ar"></img></a>
 
 
 <!--
