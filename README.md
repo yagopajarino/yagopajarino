@@ -1,8 +1,10 @@
+<a href="https://yagopajarino.com.ar"><img src="./bannerYP.png" alt="more at yagopajarino.com.ar"></img></a>
+
 ### Hi there, I'm Yago 👋
 
 WebDev based in Buenos Aires 🇦🇷
 
-<a href="https://yagopajarino.com.ar"><img src="./banner.png" alt="more at yagopajarino.com.ar"></img></a>
+
 
 
 <!--
