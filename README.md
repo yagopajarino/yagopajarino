@@ -13,7 +13,7 @@ Repositorios de materias cursadas con material teórico y prácticas resueltas.
 * [Probabilidad y estadística](https://github.com/yagopajarino/uba-probayestadistica)
 * [Algoritmos y estructuras de datos I](https://github.com/yagopajarino/uba-AyEd1) 
 
-## Data Science & analytics
+## Data Science & Analytics
 
 * [Banco Galicia Datatón 2019](https://github.com/yagopajarino/ds-datatonGalicia-2019)
 * [Análisis Inmobiliario CABA](https://github.com/yagopajarino/ds-properati)
