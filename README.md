@@ -1,11 +1,23 @@
 <a href="https://yagopajarino.com.ar"><img src="./bannerYP.png" alt="more at yagopajarino.com.ar"></img></a>
 
-### Hi there, I'm Yago 👋
+### Hola! 👋
 
-WebDev based in Buenos Aires 🇦🇷
+WebDev & Data Science | Buenos Aires 🇦🇷
 
+## FCEN - UBA
+Lic. en ciencias de la computación - DC - FCEN - Universidad de Buenos Aires.
 
+Repositorios de materias cursadas con material teórico y prácticas resueltas.
 
+* Álgebra I - Cooming soon 👷
+* [Probabilidad y estadística](https://github.com/yagopajarino/uba-probayestadistica)
+* [Algoritmos y estructuras de datos I](https://github.com/yagopajarino/uba-AyEd1) 
+
+## Data Science & analytics
+
+* [Banco Galicia Datatón 2019](https://github.com/yagopajarino/ds-datatonGalicia-2019)
+* [Análisis Inmobiliario CABA](https://github.com/yagopajarino/ds-properati)
+* [Santander Data Extraction & Analytics](https://github.com/yagopajarino/ds-santanderJobOffers)
 
 <!--
 **yagopajarino/yagopajarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
