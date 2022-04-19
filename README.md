@@ -9,7 +9,7 @@ Lic. en ciencias de la computación - DC - FCEN - Universidad de Buenos Aires.
 
 Repositorios de materias cursadas con material teórico y prácticas resueltas.
 
-* Álgebra I - Coming soon 👷
+* [Álgebra I](https://github.com/yagopajarino/uba-algebraI)
 * [Probabilidad y estadística](https://github.com/yagopajarino/uba-probayestadistica)
 * [Algoritmos y estructuras de datos I](https://github.com/yagopajarino/uba-AyEd1) 
 
