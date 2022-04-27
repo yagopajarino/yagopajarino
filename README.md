@@ -5,7 +5,9 @@
 WebDev & Data Science | Buenos Aires 🇦🇷
 
 ## FCEN - UBA
-Lic. en ciencias de la computación - DC - FCEN - Universidad de Buenos Aires.
+Licenciatura en Ciencias de la Computación \
+Facultad de Ciencias Exactas y Naturales \
+Universidad de Buenos Aires.
 
 Repositorios de materias cursadas con material teórico y prácticas resueltas.
 
