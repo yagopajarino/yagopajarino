@@ -19,6 +19,10 @@ Repositorios de materias cursadas con material teórico y prácticas resueltas.
 * [Análisis Inmobiliario CABA](https://github.com/yagopajarino/ds-properati)
 * [Santander Data Extraction & Analytics](https://github.com/yagopajarino/ds-santanderJobOffers)
 
+## WebDev
+
+* [CS50 Final Project](https://github.com/yagopajarino/mmanager)
+
 <!--
 **yagopajarino/yagopajarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
