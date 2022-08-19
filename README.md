@@ -16,6 +16,8 @@ Repositorios de materias cursadas con material teórico y prácticas resueltas.
 * [Álgebra I](https://github.com/yagopajarino/uba-algebraI)
 * [Probabilidad y estadística](https://github.com/yagopajarino/uba-probayestadistica)
 * [Algoritmos y estructuras de datos I](https://github.com/yagopajarino/uba-AyEd1) 
+* [Algoritmos y estructuras de datos II](https://github.com/yagopajarino/uba-AyEd2) 
+* [Organización del computador I](https://github.com/yagopajarino/uba-orga1) 
 
 ## Data Science & Analytics
 
