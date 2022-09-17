@@ -4,7 +4,7 @@
 
 WebDev & Data Science | Buenos Aires 🇦🇷
 
-[yagopajarino.com.ar](https://yagopajarino.ar)
+[yagopajarino.ar](https://yagopajarino.ar)
 
 ## FCEN - UBA
 Licenciatura en Ciencias de la Computación \
