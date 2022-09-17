@@ -1,10 +1,10 @@
-<a href="https://yagopajarino.com.ar"><img src="./bannerYP.png" alt="more at yagopajarino.com.ar"></img></a>
+<a href="https://yagopajarino.ar/"><img src="./bannerYP.png" alt="more at yagopajarino.ar"></img></a>
 
 ### Hola! 👋
 
 WebDev & Data Science | Buenos Aires 🇦🇷
 
-[yagopajarino.com.ar](https://yagopajarino.com.ar)
+[yagopajarino.com.ar](https://yagopajarino.ar)
 
 ## FCEN - UBA
 Licenciatura en Ciencias de la Computación \
