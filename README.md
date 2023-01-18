@@ -1,6 +1,8 @@
 ### Hola! 👋
 
-WebDev & Data Science | Buenos Aires 🇦🇷
+Software | Data | Crypto
+
+Buenos Aires 🇦🇷
 
 [yagopajarino.ar](https://yagopajarino.ar)
 
