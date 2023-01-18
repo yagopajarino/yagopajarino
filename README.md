@@ -1,5 +1,3 @@
-<a href="https://yagopajarino.ar/"><img src="./bannerYP.png" alt="more at yagopajarino.ar"></img></a>
-
 ### Hola! 👋
 
 WebDev & Data Science | Buenos Aires 🇦🇷
