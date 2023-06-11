@@ -6,7 +6,7 @@ Buenos Aires 🇦🇷
 
 [yagopajarino.ar](https://yagopajarino.ar)
 
-Hago algunos gist de juguete en [yagopajarino’s gists](https://gist.github.com/yagopajarino)
+Juego a los gist en [yagopajarino’s gists](https://gist.github.com/yagopajarino)
 
 <!--
 **yagopajarino/yagopajarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
